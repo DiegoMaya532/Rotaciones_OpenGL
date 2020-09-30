@@ -1,0 +1,3 @@
+﻿  rutina.cpp
+C:\Users\Diego\Documents\Visual Studio Proyectos\C++\OpenGL\RotaciónLibre\rutina.cpp(46,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  RotaciónLibre.vcxproj -> C:\Users\Diego\Documents\Visual Studio Proyectos\C++\OpenGL\Debug\RotaciónLibre.exe
